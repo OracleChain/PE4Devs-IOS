@@ -1,4 +1,4 @@
-# PE4Devs-Android
+# PE4Devs-IOS
 Adaptation tool for PocketEOS dapps developers.
 
 
