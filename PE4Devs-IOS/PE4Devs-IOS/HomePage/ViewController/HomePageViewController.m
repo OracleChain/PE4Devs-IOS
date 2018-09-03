@@ -66,6 +66,7 @@
     DappDetailViewController *vc = [[DappDetailViewController alloc] init];
     Application *model = [[Application alloc] init];
     model.url = self.headerView.urlTF.text;
+    
     vc.model = model;
     [self.navigationController pushViewController:vc animated:YES];
 }

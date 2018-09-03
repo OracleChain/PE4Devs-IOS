@@ -211,6 +211,7 @@
  */
 #define TITLELABEL_HEIGHT 46.5f
 
+#define MARGIN_10 10.0f
 #define MARGIN_15 15.0f
 #define MARGIN_20 20.0f
 
